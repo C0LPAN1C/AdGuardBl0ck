@@ -1,0 +1,7 @@
+!
+! Title: colpanic DNS filter
+! Description: List composed of several filters
+! Last modified: 2025-03-11
+!
+!
+||iolo.com^
